@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "853331407639",
+    "firebase_url": "https://eventit-bcd5e.firebaseio.com",
+    "project_id": "eventit-bcd5e",
+    "storage_bucket": "eventit-bcd5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853331407639:android:0c07c880637a55ca",
+        "android_client_info": {
+          "package_name": "com.eventos.eventit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853331407639-j1hgnl9iq43p6ia2hfkcjhsi0p5uioqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6HdgBe8n-WaWFqSM_hhsdhJy4sqDmM6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
